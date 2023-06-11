@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-StudentrosterApplication<studentroster>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "richie.studentroster.StudentrosterApplication",
+            "projectName": "studentroster",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
